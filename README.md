@@ -37,7 +37,7 @@ This research has significant implications in the following areas:
    git clone https://github.com/alimuhammadtariq/Reinforcement-learning-for-aerial-Navigation-.git
    cd Reinforcement-learning-for-aerial-Navigation
    pip install -r requirements.txt
-   cd "Reinforcement-learning-for-aerial-Navigation-"
+   cd "Reinforcement-learning-for-aerial-Navigation-/Quadcopter Hovering"
    python "Quadcopter Hovering/PPO Predictions.py"
 
 
