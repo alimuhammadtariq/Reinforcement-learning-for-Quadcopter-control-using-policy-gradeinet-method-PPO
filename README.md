@@ -34,6 +34,10 @@ This research has significant implications in the following areas:
 ## Installation and Usage
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/alimuhammadtariq/Reinforcement-learning-for-aerial-Navigation-.git
+   cd Reinforcement-learning-for-aerial-Navigation
+   pip install -r requirements.txt
+   cd "Reinforcement-learning-for-aerial-Navigation-"
+   python "Quadcopter Hovering/PPO Predictions.py"
+
 
