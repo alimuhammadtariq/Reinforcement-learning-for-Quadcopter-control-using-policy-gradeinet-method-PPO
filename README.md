@@ -44,7 +44,8 @@ This research has significant implications in the following areas:
 
 For a visual demonstration of the project, watch the video below:
 
-[![Watch the video](https://img.youtube.com/vi/Ef2fSXwFHAo/0.jpg)](https://youtu.be/9zGyjUetiMY?si=6UBUFrxGp1WFtR-y)
+[![Watch the video](https://img.youtube.com/vi/9zGyjUetiMY/0.jpg)](https://youtu.be/9zGyjUetiMY)
+
 
 
 
